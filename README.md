@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanPostu
-- 👀 I’m interested in .Net, Java, React, ReactNative, Xamarin
+- 👀 I’m interested in .Net, Java, React, ReactNative and Xamarin
 
 <!---
 IvanPostu/IvanPostu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
